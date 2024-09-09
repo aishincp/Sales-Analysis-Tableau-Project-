@@ -1,0 +1,92 @@
+Sales dashboard Purpose:
+The purpose of sales dashboard is to present an overview of the sakes metrixs & trends in order to analyze year-over-year sales performance & understand sales trends.
+
+Introduction:
+This user story outlines the specifications for building two dashboards using Tableau to help stakeholders, including sales managers, and executives to analyze sales performance & customers.
+
+Key requirements:
+KPI Overview:
+Display a summary of total sales, profits, and quantity for the current year & the previous year.
+
+Sales Trends:
+- Present the data each for KPI on a monthly basis for both current & previous year.
+- Identify months with  highest & lowest sales and make them easy to recognize
+
+Product Subcategory Comparison:
+- Compare sales performance by different product subcategories for current & previous year
+- Include a comparison of sales with profit.
+
+Weekly Trends for Sales & Profit:
+- Present weekly sales & profit data for current year
+- Display the avg weekly values.
+- Highlights weeks that are above & below the avg to draw attention to sales & profit performance.
+
+Monthly Trends:
+- Identify months with highest & lowest sales & make them easy to recognize
+
+Customer Distribution by Number of Orders:
+- Represent the distribution of customers based on the no. of orders they have placed to provide insights into customer insights.
+
+Top 10 Customers By Profit:
+- Present the top 10 customers who have generated the highest profits for the company.
+- Show additional informations like rank, number of orders, current sales, current profit & last order date.
+
+
+Project Steps:
+
+1. Analyze Requirements:
+* Collect Requirements
+* Choose Right Charts
+* Draw Mockups
+* Choose Colors
+
+2. Build Data Source:
+* Connect Data
+* Create Data Model
+* Rename Fields/Tables
+* Check Data Types
+* Understand Data
+
+3. Building Charts:
+* Create Calculated Fields & Test
+* Build Chart
+* Format:
+         * Remove Lines & Grids
+         * Cleanup Axis & Headers
+         * Coloring
+         * Tooltip
+
+4. Building Dashboard
+* Draw Mockups for Containers
+* Build Container Structure
+* Put all Charts Together
+* Format:
+         * Distribute Content 'Evenly'
+         * Format Colors, Sizes, etc.
+         * Fit 'Entire View'
+         * Add Legends
+         * Add Spaces (inner/outer padding)
+
+
+
+
+
+
+## DESIGN & INTERACTIVITY REQUIREMENTS
+Dashboard Dynamic:
+- The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year. for ex. 2021, 2022 or so on
+- Provide users with the ability to navigate between dashboards easily. Smooth transitions
+- Make charts & graphs interactive, enabling users to filter data using the charts
+
+Data Filters:
+- Allow users to filter data by product information like category / subcategory and by location information like region, state & city
+
+KPI Overview -> KPI cards
+
+Current Year -> Line Chart
+Previous Year -> Sparkline
+
+Product Category/Subcategory -> Bar Charts (Bar-in-Bar to compare for both years)
+Sales with Profit -> Bar Chart
+
+Weekly / Monthly Sales & Profit ( which means Changes Over Time) -> Line Chart
