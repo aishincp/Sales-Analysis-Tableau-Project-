@@ -4,6 +4,8 @@
 ## Overview
 
 This is one of my few data analysis projects showcasing a comprehensive sales analysis dashboard to analyze and visualize sales data to provide key insights or trends of a company’s sales performance and activities. This dashboard demonstrates a clear and concise view of sales metrics between 2020 and 2023 by leveraging the Tableau Public data visualization tool.
+
+
 ![Sales Dashboard](https://github.com/user-attachments/assets/284f5023-756d-43ac-aa29-6fa7523653ce)
 
 ## Inspiration
