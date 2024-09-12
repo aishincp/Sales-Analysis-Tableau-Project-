@@ -8,6 +8,8 @@ This is one of my few data analysis projects showcasing a comprehensive sales an
 
 ![Sales Dashboard](https://github.com/user-attachments/assets/284f5023-756d-43ac-aa29-6fa7523653ce)
 
+### __View Dashboard__ [Here](https://public.tableau.com/app/profile/aishin.abdulla.yoosufali/viz/Aishin_SalesProfitWeeklyTrend_Workbook/SalesDashboard)
+
 ## Inspiration
 My fascination for data analysis and storytelling arises from a deep interest in how data can unveil information and approach it to make strategic decisions. Having an electronics background and completing a master’s in IT, I started exploring the world of Artificial Intelligence (AI) and Machine Learning (ML), which highlights that the data is crucial to generating valuable insights or to designing optimized models. By employing this project, my enthusiasm helped to uncover insights or patterns that help stakeholders or businesses improve sales strategies.
 
